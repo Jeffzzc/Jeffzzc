@@ -8,11 +8,11 @@ My personal homepage: [Jeffzzc.github.io](https://Jeffzzc.github.io)
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffzzc&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffzzc&layout=compact&langs_count=100)
 
 ### About Me
 
-- Majoring in Information Security.
+- Majoring in Internet of Things.
 - 🏫 Studying at Beijing University of Posts and Telecommunications.
 - 📍 Living in Beijing, China.
 
