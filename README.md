@@ -4,17 +4,18 @@ My personal homepage: [Jeffzzc.github.io](https://Jeffzzc.github.io)
 
 ### Jeffzzc's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffzzc&show_icons=true&count_private=true)
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffzzc&layout=compact)
 
 ### About Me
 
-- Majoring in Internet of Things.
+- Majoring in Information Security.
 - 🏫 Studying at Beijing University of Posts and Telecommunications.
 - 📍 Living in Beijing, China.
+
 
 
 Here are some ideas to get you started:
