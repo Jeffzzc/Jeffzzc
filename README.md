@@ -24,7 +24,7 @@ My personal homepage: [Jeffzzc.github.io](https://Jeffzzc.github.io)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on autonomous driving research
+- 🔭 I’m currently working on LLM research
 - 🌱 I’m currently learning Python JavaScript SpringBoot
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about QM & BUPT study
