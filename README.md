@@ -24,8 +24,8 @@ My personal homepage: [Jeffzzc.github.io](https://Jeffzzc.github.io)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on LLM research
-- 🌱 I’m currently learning Python JavaScript SpringBoot
+- 🔭 I’m currently working on LLM MAS research
+- 🌱 I’m currently learning Java JavaScript SpringBoot Vue
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about QM & BUPT study
 - 📫 How to reach me: [Jeffzzc.github.io](https://Jeffzzc.github.io)
