@@ -10,7 +10,7 @@ My personal homepage: [Jeffzzc004.github.io](https://Jeffzzc004.github.io)
 - 📍 Living in Beijing, China.
 
 - 🔭 I’m currently working on LLM evaluation & AI infra research
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning OS and AI infra
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about QM & BUPT study
 - 📫 How to reach me: [Jeffzzc.github.io](https://Jeffzzc.github.io)
