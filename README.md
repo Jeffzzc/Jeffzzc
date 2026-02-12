@@ -14,6 +14,4 @@ My personal homepage: [Jeffzzc004.github.io](https://Jeffzzc004.github.io)
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about QM & BUPT study
 - 📫 How to reach me: [Jeffzzc.github.io](https://Jeffzzc.github.io)
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
--->
+
